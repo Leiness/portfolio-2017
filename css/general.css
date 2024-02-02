@@ -1,0 +1,62 @@
+/*---GENERAL SETTINGS---------------------------------*/
+/*----------------------------------------------------*/
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, pre, a, address, img, ul, li, form, label, caption {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  list-style: none; }
+
+body, html {
+  font-family: 'Josefin Slab', serif;
+  color: #433f3b;
+  background-color: #ffffff; }
+
+h1, h2, h3 {
+  text-align: center; }
+
+a {
+  text-decoration: none;
+  color: #433f3b; }
+
+a:hover {
+  color: #000000; }
+
+a img {
+  border: none; }
+
+.content {
+  padding: 4em 0 3em 0;
+  width: 90%;
+  margin: 0 auto;
+  overflow: hidden; }
+  .content p {
+    font-size: 110%;
+    line-height: 1.5em; }
+
+.module-separator {
+  height: 5em;
+  float: left;
+  background-color: #ffffff;
+  width: 100%;
+  position: relative; }
+
+.module-separator.left {
+  transform: rotate(5deg) scale(1) skew(5deg) translate(0px);
+  -webkit-transform: rotate(5deg) scale(1) skew(5deg) translate(0px);
+  -moz-transform: rotate(5deg) scale(1) skew(5deg) translate(0px);
+  -o-transform: rotate(5deg) scale(1) skew(5deg) translate(0px);
+  -ms-transform: rotate(5deg) scale(1) skew(5deg) translate(0px); }
+
+.module-separator.right {
+  transform: rotate(-5deg) scale(1) skew(-5deg) translate(0px);
+  -webkit-transform: rotate(-5deg) scale(1) skew(-5deg) translate(0px);
+  -moz-transform: rotate(-5deg) scale(1) skew(-5deg) translate(0px);
+  -o-transform: rotate(-5deg) scale(1) skew(-5deg) translate(0px);
+  -ms-transform: rotate(-5deg) scale(1) skew(-5deg) translate(0px); }
+
+.copy {
+  padding: 2em 0 2em 0; }
+
+/*# sourceMappingURL=general.css.map */
