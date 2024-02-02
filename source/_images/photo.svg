@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="200px" viewBox="0 0 300 200" enable-background="new 0 0 300 200" xml:space="preserve">
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="6.389" y="3.086" width="283.122" height="193.616">
+		<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+		<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="6.389" y="3.086" width="283.122" height="193.616" id="SVGID_1_">
+	<g filter="url(#Adobe_OpacityMaskFilter)">
+		<path fill="none" stroke="#000000" stroke-width="12.0821" d="M220.334,117.111c0,31.945-28.535,63.733-63.733,63.733
+			c-35.199,0-63.733-28.534-63.733-63.733c0-35.199,28.534-63.733,63.733-63.733C191.799,53.378,220.334,81.913,220.334,117.111z"/>
+	</g>
+</mask>
+<path mask="url(#SVGID_1_)" fill="#EDECE8" d="M10.105,193.531c5.437,4.228,272.451,4.228,276.076,0
+	c3.625-4.229,8.458-102.095-10.875-122.634c-14.202-15.09-57.39-18.123-57.39-18.123s-24.768-42.287-30.205-46.516
+	c-5.437-4.229-55.578-4.229-62.826,0c-7.25,4.229-28.394,45.913-28.394,45.913s-76.419,5.134-83.971,12.686
+	C4.971,72.408,4.668,189.302,10.105,193.531z"/>
+<path fill="#EDECE8" d="M33.666,33.443c-6.042,4.229-3.021,20.54-3.021,20.54c6.646-5.437,62.827-7.25,62.827-7.25
+	s1.208-11.478-3.021-14.499C86.222,29.214,39.707,29.214,33.666,33.443z"/>
+</svg>

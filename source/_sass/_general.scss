@@ -1,0 +1,91 @@
+@import 'colors';
+@import 'breakpoints';
+
+/*---GENERAL SETTINGS---------------------------------*/
+/*----------------------------------------------------*/
+
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, pre, a, address, img, ul, li, form, label, caption {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  list-style: none;
+}
+
+body, html {
+  font-family: 'Josefin Slab', serif;
+  color: $dark-grey;
+  background-color: $white;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+a {
+  color: $dark-grey;
+}
+
+a:hover {
+  color: $black;
+}
+
+a img {
+  border: none;
+}
+
+.content {
+  width: 90%;
+  padding: 6em 0 4em 0;
+  margin: 0 auto;
+  overflow: hidden;
+  @include breakpoint(2) {
+    width: 950px;
+  }
+  p {
+    font-size: 110%;
+    line-height: 1.5em;
+  }
+}
+.module-separator {
+  height: 5em;
+  float: left;
+  background-color: $white;
+  width: 100%;
+  position: relative;
+}
+
+.module-separator.left {
+  transform: rotate(5deg) scale(1) skew(5deg) translate(0px);
+  -webkit-transform: rotate(5deg) scale(1) skew(5deg) translate(0px);
+  -moz-transform: rotate(5deg) scale(1) skew(5deg) translate(0px);
+  -o-transform: rotate(5deg) scale(1) skew(5deg) translate(0px);
+  -ms-transform: rotate(5deg) scale(1) skew(5deg) translate(0px);
+}
+
+.module-separator.right {
+  transform: rotate(-5deg) scale(1) skew(-5deg) translate(0px);
+  -webkit-transform: rotate(-5deg) scale(1) skew(-5deg) translate(0px);
+  -moz-transform: rotate(-5deg) scale(1) skew(-5deg) translate(0px);
+  -o-transform: rotate(-5deg) scale(1) skew(-5deg) translate(0px);
+  -ms-transform: rotate(-5deg) scale(1) skew(-5deg) translate(0px);
+}
+
+.copy {
+  padding: 2em 0 2em 0;
+  &.center{
+    text-align: center;
+  }
+}
+
+.left{
+  @include breakpoint(2){
+    float: left;
+  }
+}
+.right{
+  @include breakpoint(2){
+    float: right;
+  }
+}

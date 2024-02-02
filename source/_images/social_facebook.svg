@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="200px" height="500px" viewBox="0 0 200 500" enable-background="new 0 0 200 500" xml:space="preserve">
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="-25" y="-49.999" width="250" height="249.997">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="-25" y="-49.999" width="250" height="249.997" id="SVGID_1_">
+	<g filter="url(#Adobe_OpacityMaskFilter)">
+		<rect y="1" fill="#FFFFFF" width="200" height="200"/>
+		<g>
+			<path d="M125,20.718v17.275c-7.022,0-12.147,0.324-13.411,0.969c-1.265,0.646-1.896,2.486-1.896,5.52v3.539H125v17.696h-9v91.43
+				H82v-91.43h-7V48.021h7c0-7.359,0.137-12.274,0.643-14.747c0.505-2.472,1.755-4.677,3.75-6.615
+				c1.994-1.938,4.789-3.413,8.385-4.424c3.595-1.011,9.185-1.517,16.769-1.517H125z"/>
+		</g>
+	</g>
+</mask>
+<circle mask="url(#SVGID_1_)" cx="100" cy="75" r="125"/>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="-25" y="163.001" width="250" height="249.997">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="-25" y="163.001" width="250" height="249.997" id="SVGID_2_">
+	<g filter="url(#Adobe_OpacityMaskFilter_1_)">
+		<rect y="214" fill="#FFFFFF" width="200" height="200"/>
+		<g>
+			<path d="M125,233.719v17.274c-7.022,0-12.147,0.323-13.411,0.97c-1.265,0.646-1.896,2.485-1.896,5.52v3.539H125v17.695h-9v91.43
+				H82v-91.43h-7v-17.695h7c0-7.359,0.137-12.274,0.643-14.747c0.505-2.472,1.755-4.677,3.75-6.615
+				c1.994-1.938,4.789-3.413,8.385-4.424c3.595-1.011,9.185-1.517,16.769-1.517H125z"/>
+		</g>
+	</g>
+</mask>
+<circle mask="url(#SVGID_2_)" fill="#3B5999" cx="100" cy="288" r="125"/>
+</svg>

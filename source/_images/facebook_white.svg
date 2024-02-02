@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="500px" height="500px" viewBox="-24.63 -25.159 500 500" enable-background="new -24.63 -25.159 500 500"
+	 xml:space="preserve">
+<defs>
+</defs>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="0" width="450" height="450">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="0" y="0" width="450" height="450" id="SVGID_1_">
+	<g filter="url(#Adobe_OpacityMaskFilter)">
+		<rect x="45.866" y="93.693" fill="#FFFFFF" width="358.434" height="358.435"/>
+		<g>
+			<rect x="45.471" y="127.15" fill="none" width="357.239" height="321.399"/>
+			<text transform="matrix(1 0 0 1 179.1919 372.8657)" fill="#1A171B" font-family="'Impact'" font-size="310.6458">f</text>
+		</g>
+	</g>
+</mask>
+<path mask="url(#SVGID_1_)" fill="#FFFFFF" d="M450,225.001c0,124.265-100.734,225-224.996,225C100.737,450,0,349.266,0,225.001
+	S100.737,0,225.003,0C349.265,0,450,100.736,450,225.001z"/>
+</svg>

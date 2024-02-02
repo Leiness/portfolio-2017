@@ -1,0 +1,11 @@
+@mixin breakpoint($deviceWidth) {
+  @if $deviceWidth == 2 {
+    @media (min-width: 1023px) { @content ; }
+  }
+  @else if $deviceWidth == 1 {
+    @media (min-width: 767px) { @content ; }
+  }
+  @else if $deviceWidth == 0 {
+    @media (max-width: 767px) { @content ; }
+  }
+}

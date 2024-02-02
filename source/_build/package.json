@@ -1,0 +1,21 @@
+{
+  "name": "leiness",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Linus Fuetterer",
+  "license": "ISC",
+  "devDependencies": {
+    "compass-importer": "^0.2.4",
+    "gem": "^2.3.1",
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "ruby": "^0.6.1"
+  }
+}
